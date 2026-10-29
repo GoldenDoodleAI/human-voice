@@ -1,10 +1,25 @@
-Content in okf/, packaging/, and tests/ is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-https://creativecommons.org/licenses/by/4.0/
-
-Code in scripts/ and .github/ is licensed under the MIT License.
-
 Copyright (c) 2026 GoldenDoodle AI
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of the software portions of this repository, to deal in the software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the following conditions: the above copyright notice and this permission notice shall be included in all copies or substantial portions of the software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+Documentation and content
+-------------------------
 
-The SAMHSA trauma-informed framework referenced in okf/trauma-informed/ is a work of the United States government and is in the public domain.
+The following are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0):
+
+- All files at the root of this repository, including but not limited to SKILL.md, module.md, README.md, AGENTS.md, SOURCES.md, PROVENANCE, and this LICENSE file.
+- Any future files in this repository that are skill or standard documentation, prose, or other non-software content (including paths such as okf/, packaging/, and tests/ when present).
+
+You may share and adapt that material under the terms of CC BY 4.0. To view a copy of the license, visit:
+
+https://creativecommons.org/licenses/by/4.0/
+
+Software code
+-------------
+
+Any software in this repository, including paths such as scripts/ and .github/ when present, is licensed under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the software portions of this repository, to deal in the software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the following conditions: the above copyright notice and this permission notice shall be included in all copies or substantial portions of the software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Third-party and public domain
+-----------------------------
+
+The SAMHSA trauma-informed framework referenced in upstream standard material is a work of the United States government and is in the public domain.
